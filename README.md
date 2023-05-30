@@ -35,6 +35,6 @@ VS Code
 81.1%
 
 ### Deployed:
-Deployed on heroku -- https://yashas-pissay-flight-fare-prediction-ml-flight-qcg00f.streamlit.app/
+Deployed on Streamlit -- https://yashas-pissay-flight-fare-prediction-ml-flight-qcg00f.streamlit.app/
 
 # Thanks!!!
